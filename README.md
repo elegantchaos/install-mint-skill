@@ -21,7 +21,7 @@ This skill does not require the shared agents baseline.
 
 ## Relationship To `agents`
 
-The canonical packaged copy used on this machine lives in the shared agents repository under `codex/skills/install-mint/`.
+On machines using the shared agents control-plane repository, this skill is typically checked out under `~/.local/share/skills/` and linked into `~/.agents/skills` or `~/.codex/skills`.
 This repository is the public repo-per-skill source used for sharing, maintenance, and refresh workflows.
 
 ## Contents
@@ -32,4 +32,4 @@ This repository is the public repo-per-skill source used for sharing, maintenanc
 
 ## Local Notes
 
-Packaged in this repo; public repo not created yet.
+Packaged here and seeded to the public repo.
