@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/logo.svg" alt="Install Mint - Agent Skill" height="100" />
+</p>
+
 # Install Mint
 
 This repository contains the `install-mint` agent skill.
